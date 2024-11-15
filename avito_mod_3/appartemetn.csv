@@ -1,0 +1,13 @@
+title,price,datetime,nb_rooms,nb_baths,surface_area,link,city_name,equipements
+Maison avec piscine,250000,2024-12-01 14:00:00,4,2,120,https://example.com/maison1,Casablanca,Piscine/Sauna/Garage
+Appartement spacieux,150000,2024-12-05 10:00:00,3,1,85,https://example.com/appartement1,Rabat,Balcon/Ascenseur
+Villa de luxe,500000,2024-11-20 18:00:00,6,4,300,https://example.com/villa1,Marrakech,Piscine/Jardin/Spa
+Appartement cosy,120000,2024-11-15 12:00:00,2,1,70,https://example.com/appartement2,Fès,Ascenseur
+Maison moderne,320000,2024-11-18 09:00:00,5,3,250,https://example.com/maison2,Tanger,Piscine/Garage
+Studio meublé,80000,2024-12-02 16:30:00,1,1,45,https://example.com/studio1,Agadir,Meubles/Ascenseur
+Appartement duplex,180000,2024-12-10 08:45:00,3,2,110,https://example.com/appartement3,Meknès,Balcon/Meubles
+Maison à rénover,95000,2024-12-01 17:20:00,4,1,150,https://example.com/maison3,Casablanca,Jardin/Garage
+Appartement avec vue,200000,2024-11-28 14:00:00,3,2,100,https://example.com/appartement4,Rabat,Vue mer/Ascenseur
+Villa avec jardin,350000,2024-11-25 10:30:00,5,3,200,https://example.com/villa2,Marrakech,Jardin/Piscine
+Appartement de standing,250000,2024-12-07 15:00:00,3,2,120,https://example.com/appartement5,Tanger,Ascenseur/Balcon
+Maison ancienne,140000,2024-12-04 11:30:00,4,1,160,https://example.com/maison4,Fès,Garage/Jardin
